@@ -37,7 +37,7 @@ header, main, footer {
 
 /* Establecer la imagen como fondo y ajustar su posición */
 img {
-    width: 800px;
+    width: 550px;
     height: 250px; /* Ajustar la altura de la imagen al 100% del contenedor */
     object-fit: cover;
 }
